@@ -54,7 +54,7 @@ a) Analyzed the kernel density function (KDF) to visualize the distribution and 
 
 Examined the kernel density function (KDF) to compare the distributions with real compositions used in concrete and observed a close similarity between the data and the real compositions.
 
-![Screenshot (695)](https://github.com/SukrutDeshmukh/Concrete_Strength_Prediction/assets/127339353/de1d5e60-10ad-4a8d-8712-29aaa8b37d04)
+![image](https://github.com/SukrutDeshmukh/Concrete_Strength_Prediction/assets/127339353/a50107bc-8818-4d28-bf45-94e3426a3c0c)
 
 
 b) Plotted Correlation heatmap to understand the other feature relation with the target.
